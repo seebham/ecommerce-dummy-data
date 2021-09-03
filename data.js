@@ -1,7 +1,7 @@
 // Disclaimer - This data is collected from Amazon.com manually and it is intended to be used for learning purposes only.
 
 // Dummy Data for E-commerce App with Images, Filters and Reviews
-// categories an Array of Objects containing the categories
+// categories an Object of Objects containing the categories
 // and the products Array of Objects containing the products
 // Total Categories: 6
 // Total Products: (4 * 10) + (2 * 5) = 50
@@ -47,7 +47,7 @@ const productsStructure = [
 ];
 
 // Actual Data
-export const categories = {
+const categories = {
   Mobiles: {
     title: "Mobiles",
     keywords: [],
@@ -66,7 +66,6 @@ export const categories = {
           "Mi",
         ],
       },
-
       RAM: {
         filterName: "RAM",
         filterList: ["4 MB", "2 GB", "4 GB", "6 GB", "8 GB"],
@@ -162,7 +161,7 @@ export const categories = {
 };
 
 // Products
-export const products = [
+const products = [
   {
     Brand: "Redmi",
     RAM: "2 GB", // filters
@@ -2164,3 +2163,5 @@ export const products = [
     ],
   },
 ];
+
+module.exports = { categories, products };
