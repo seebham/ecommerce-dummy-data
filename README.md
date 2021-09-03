@@ -8,6 +8,6 @@ Data URL - https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/data.json
 fetch("https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/data.json", {
   method: "GET",
 })
-  .then((response) => response.json().then((res) => console.log(res)))
+  .then((response) => response.json().then((json) => console.log(json)))
   .catch((err) => console.error(err));
 ```
