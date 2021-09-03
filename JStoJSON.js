@@ -5,7 +5,7 @@ const { categories, products } = require("./data");
 let data = { categories: categories, products: products };
 
 // Converting JS Object to JSON
-let dataInJSON = JSON.stringify(data, null, 4);
+let dataInJSON = JSON.stringify(data);
 
 // Writing data in JSON format to data.json
 fs.writeFile("./data.json", dataInJSON, (err) => {
