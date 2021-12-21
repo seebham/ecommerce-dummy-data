@@ -169,8 +169,8 @@ const products = [
     category: "Mobiles",
     price: 6999,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/redmi9A1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/redmi9A2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/redmi9A1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/redmi9A2.jpg",
     ],
     specs: [
       // Always check whether this is Array or String, if Array -> Bulleded List else if String -> Para
@@ -220,8 +220,8 @@ const products = [
     category: "Mobiles",
     price: 14999,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/SamsungM311.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/SamsungM312.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/SamsungM311.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/SamsungM312.jpg",
     ],
     specs: [
       "Quad Camera Setup - 64MP (F1.8) Main Camera +8MP (F2.2) Ultra Wide Camera +5MP(F2.2) Depth Camera +5MP(F2.4) Macro Camera and 32MP (F2.0) front facing Camera",
@@ -264,8 +264,8 @@ const products = [
     category: "Mobiles",
     price: 119999,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/iphone12M1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/iphone12M2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/iphone12M1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/iphone12M2.jpg",
     ],
     specs: [
       "6.7-inch (17 cm diagonal) Super Retina XDR display",
@@ -308,8 +308,8 @@ const products = [
     category: "Mobiles",
     price: 24999,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/oneplusN1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/oneplusN2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/oneplusN1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/oneplusN2.jpg",
     ],
     specs: [
       "64MP+8MP+2MP triple rear camera with 1080p video at 30/60 fps, 4k 30 fps | 16MP front camera with 1080p video at 30/60 fps",
@@ -353,8 +353,8 @@ const products = [
     category: "Mobiles",
     price: 1999,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/jioPhone1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/jioPhone2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/jioPhone1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/jioPhone2.jpg",
     ],
     specs: [
       "2MP rear and 0.3MP front camera",
@@ -395,8 +395,8 @@ const products = [
     category: "Mobiles",
     price: 14999,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/realmeNazro1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/realmeNazro2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/realmeNazro1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/realmeNazro2.jpg",
     ],
     specs: [
       "6 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
@@ -433,8 +433,8 @@ const products = [
     category: "Mobiles",
     price: 15490,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/oppophone1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/oppophone2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/oppophone1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/oppophone2.jpg",
     ],
     specs: [
       "6.51' Inch (16.5cm) HD+ Puch-hole Display with 1600x720 pixels. Larger screen to body ratio of 89.2%.|Side Fingerprint Sensor.",
@@ -470,7 +470,7 @@ const products = [
     category: "Mobiles",
     price: 29999,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/vivo1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/vivo1.jpg",
     ],
     specs: [
       "48+8+2+2MP rear camera | 32MP front camera Front camera",
@@ -499,7 +499,7 @@ const products = [
     category: "Mobiles",
     price: 31999,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/miphone1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/miphone1.jpg",
     ],
     specs: [
       "Processor: Qualcomm Snapdragon 870 5G with Kryo 585 Octa-core; 7nm process; Up to 3.2GHz clock speed; Liquidcool technology",
@@ -529,8 +529,8 @@ const products = [
     category: "Mobiles",
     price: 41999,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/iphonXR1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/iphonXR2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/iphonXR1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/iphonXR2.jpg",
     ],
     specs: [
       "6.1-inch (15.5 cm diagonal) Liquid Retina HD LCD display",
@@ -569,7 +569,7 @@ const products = [
     category: "Books",
     price: 159,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/monksoldhisferrari.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/monksoldhisferrari.jpg",
     ],
     specs:
       "A renowned inspirational fiction, The Monk Who Sold His Ferrari is a revealing story that offers the readers a simple yet profound way to live life. The plot of this story revolves around Julian Mantle, a lawyer who has made his fortune and name in the profession. A sudden heart-attack creates havoc in the successful lawyer’s life. Jolted by the sudden onset of the illness, his practice comes to a standstill. He ponders over material success being worth it all, renounces all of it and leaves for India.",
@@ -607,7 +607,7 @@ const products = [
     category: "Books",
     price: 299,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/meluha.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/meluha.jpg",
     ],
     specs:
       "The Immortals of Meluha is a series of short stories by the Indian author, K. S. Shukla, that tell the story of the Immortals of Meluha, who are the most powerful and powerful figures in the history of the Indian subcontinent.",
@@ -649,7 +649,7 @@ const products = [
     category: "Books",
     price: 69,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/Wuthering.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/Wuthering.jpg",
     ],
     specs:
       "Wuthering Heights is a story of love, hate, social status, and revenge set in the moorlands of Northern England at the end of the 18th century. The novel follows the repercussions of the ill-fated love between the impetuous, strong-willed protagonists Catherine “Cathy” Earnshaw and Heathcliff. The story is narrated in diary-like entries by Lockwood, a tenant of one of Heathcliff’s estates. Lockwood annotates and gathers the story told to him by Nelly Dean, the housekeeper, and also records his present-day interactions to create the frame of the story. The events taking place in Wuthering Heights span a 40-year period.",
@@ -688,7 +688,7 @@ const products = [
     category: "Books",
     price: 139,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/bumkeshbakshi.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/bumkeshbakshi.jpg",
     ],
     specs:
       "सारदेंदु बंद्योपाध्याय की विशिष्टता उनके जासूसी लेखन के अतिरिक्त उनकी अद्वितीय लेखन-शैली के साथ-साथ उनके चरित्रों का सूक्ष्म जीवंत चित्रण है। बीसवीं सदी के प्रारंभ के बंगाल में लेखक और पाठक समान रूप से अपराध और जासूसी साहित्य को नीची निगाहों से देखते थे। सारदेंदु बंद्योपाध्याय ने पहली बार उस लेखन को सम्मानीय स्थान दिलाया। इसका एक बड़ा कारण यह था कि उनके पूर्व के लेखक पंचकोरी दे और दिनेंद्र कुमार अंग्रेजी के जासूसी लेखक आर्थर कोनान, डोएल, एडगर एलन पो, जी.के. चेस्टरसन तथा अगाथा क्रिस्टी से प्रभावित होकर लिखते थे, जबकि सारदेंदु के चरित्र और स्थान अन्य जासूसी उपन्यासों के विपरीत, भारतीय मूल और स्थल के परिवेश में जीते हैं। उनके लेखन का विनोदी स्वभाव पाठक को अनायास कथा के दौरान गुदगुदाता रहता है। ब्योमकेश का साहित्य न केवल अभूतपूर्व जासूसी साहित्य है बल्कि सभी समय और काल में, समाज के सभी वर्गों के युवाओं और वृद्धों में समान रूप से सदैव लोकप्रिय बना रहा है। पाठक इन रहस्य भरी कहानियों को उनके जीवंत लेखन के लिए, अंत जानने के बावजूद, बार-बार पढ़ने के लिए लालायित रहता है। किसी भी लोकप्रिय साहित्य में यह एक अद्वितीय उपलब्धि मानी जाती है और यही उपलब्धि सारदेंदु के ब्योमकेश बक्शी साहित्य को सत्यजीत राय के प्रसिद्ध उपन्यास ‘फेलूदा के कारनामे’ के समान हमारे समय के ‘क्लासिक’ का स्थान दिलाती है।",
@@ -725,7 +725,7 @@ const products = [
     category: "Books",
     price: 79,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/prideandprejudice.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/prideandprejudice.jpg",
     ],
     specs:
       "The story follows the main character Elizabeth Bennet as she deals with issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of early 19th-century England. Elizabeth is the second of five daughters of country gentleman living near the fictional town of meryton in Hertfordshire, near London. The story begins as the people of rural meryton scurry to marry their daughters off to Charles Bingley, a dashing and eligible Bachelor who has taken an estate near the Bennet. At the villagers welcoming ball, Elizabeth meets up with a formidable adversary: bingley’s closest friend, the Cold, prideful, extremely wealthy Fitzwilliam Darcy, who piques her to new heights of antagonism. When Darcy arrogantly urges Bingley to give up his burgeoning courtship of Elizabeth sister, misunderstanding threatens to bury all he loves in turmoil and regret",
@@ -765,7 +765,7 @@ const products = [
     category: "Books",
     price: 507,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/guidetogalaxy.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/guidetogalaxy.jpg",
     ],
     specs:
       "A phenomenon across all formats, this 42nd anniversary paperback omnibus contains the complete Hitchhiker's Guide trilogy in five parts, charting the whole of Arthur Dent's odyssey through space and time. Share and enjoy. Collected together in this omnibus are the five titles that comprise Douglas Adams wildly popular and wholly remarkable comedy science fiction trilogy, introductions to each book, expanded material from the Douglas Adams archives plus a bonus short story, Young Zaphod Plays It Safe, and a special undeleted scene . . .The Hitchhiker's Guide to the Galaxy",
@@ -797,7 +797,7 @@ const products = [
     category: "Books",
     price: 258,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/greyhumour.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/greyhumour.jpg",
     ],
     specs:
       "Green Humour For A Greying Planet is a curation of gag cartoons and comic strips based exclusively on wildlife and nature, perhaps the first of its kind. At a time when global warming, wildlife crimes and man-animal conflicts are at their worst, 'Green Humour' is sure to provide its readers some much needed comic relief. A comprehensive and satirical take on various aspects of the natural world and the threats to its conservation, this book will appeal to both the scientifically inclined readers as well as the general readers.",
@@ -830,7 +830,7 @@ const products = [
     category: "Books",
     price: 99,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/sunderkand.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/sunderkand.jpg",
     ],
     specs:
       "Sunderkand, believed to be the most beautiful (Sunder) part of the Ramayana, describes Lord Hanuman journey to Lanka. This book elucidates his pristine lifestyle, following which brings karmic and spiritual knowledge and bhakti (devotion) in one’s life. It is even believed that when one reads the sunderkand, Lord Hanuman himself graces the reader with his presence. Carrying the entire text and explanation of the sunderkand, Shri Hanuman Chalisa and sankatmochan hanumanashtak, this edition also contains a art is of Lord Ganesha, Lord Ram and Lord Hanuman.",
@@ -862,7 +862,7 @@ const products = [
     category: "Books",
     price: 159,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/phirmeriyaad.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/phirmeriyaad.jpg",
     ],
     specs:
       "Reading books is a kind of enjoyment. Reading books is a good habit. We bring you a different kinds of books. You can carry this book where ever you want. It is easy to carry. It can be an ideal gift to yourself and to your loved ones. Care instruction keep away from fire.",
@@ -893,7 +893,7 @@ const products = [
     category: "Books",
     price: 431,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/kabirkabir.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/kabirkabir.jpg",
     ],
     specs:
       "As the right wing tries to claim Kabir for itself, while other conservatives disown him and yet others portray him as a secular idol beyond religion, the poet has never been so misunderstood. Coming from the Nirgun bhakti tradition, the words of this fifteenth-century poet have the power to reach beyond time and speak to us today. Was he a Hindu or Muslim or was he beyond religion? Did he try to cultivate a new faith or did he eschew organised religion altogether? Was his modernity an exception or a reflection of the times he lived in? What does Kabir’s life and poetry tell us about this nation’s past and present? In this rare appraisal of Kabir’s writings and his life, Purushottam Agarwal approaches this timeless poet-revolutionary with little preconceptions, presenting him the way the poet wanted to be seen, rather than what his followers and fans want to see in him.",
@@ -925,7 +925,7 @@ const products = [
     category: "Clothings",
     price: 549,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/shirt.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/shirt.jpg",
     ],
     specs: [
       "Size: Medium",
@@ -966,7 +966,7 @@ const products = [
     category: "Clothings",
     price: 299,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/saaree.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/saaree.jpg",
     ],
     specs: [
       "Saree Color: Beige and Red",
@@ -1007,7 +1007,7 @@ const products = [
     category: "Clothings",
     price: 449,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/womentop.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/womentop.jpg",
     ],
     specs: [
       "Fit Type: Regular Fit",
@@ -1048,8 +1048,8 @@ const products = [
     category: "Clothings",
     price: 499,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/kidvest1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/kidvest2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/kidvest1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/kidvest2.jpg",
     ],
     specs: [
       "Fit Type: Regular",
@@ -1089,7 +1089,7 @@ const products = [
     category: "Clothings",
     price: 698,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/mensjeans.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/mensjeans.jpg",
     ],
     specs: [
       "Size: 34",
@@ -1124,8 +1124,8 @@ const products = [
     category: "Clothings",
     price: 899,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/pumatshirt1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/pumatshirt2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/pumatshirt1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/pumatshirt2.jpg",
     ],
     specs: [
       "Size: 34",
@@ -1163,7 +1163,7 @@ const products = [
     category: "Clothings",
     price: 1299,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/babycostume.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/babycostume.jpg",
     ],
     specs: [
       "SIZE: 70cm, Fits for AGE: 0-6 Months",
@@ -1204,7 +1204,7 @@ const products = [
     category: "Clothings",
     price: 449,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/kidkurtha.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/kidkurtha.jpg",
     ],
     specs: [
       "Color: White",
@@ -1230,7 +1230,7 @@ const products = [
     category: "Clothings",
     price: 1049,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/womenkurtha.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/womenkurtha.jpg",
     ],
     specs: [
       "Fit Type: Regular",
@@ -1263,7 +1263,7 @@ const products = [
     category: "Clothings",
     price: 749,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/womenblouse.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/womenblouse.jpg",
     ],
     specs: [
       "Fit Type: Regular",
@@ -1300,7 +1300,7 @@ const products = [
     category: "Beauty",
     price: 324,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/dovebodylotion.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/dovebodylotion.jpg",
     ],
     specs: [
       "Quantity: 800 ml",
@@ -1341,7 +1341,7 @@ const products = [
     category: "Beauty",
     price: 159,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/parkavenueperfume.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/parkavenueperfume.jpg",
     ],
     specs: [
       "Quantity: 150ml",
@@ -1385,7 +1385,7 @@ const products = [
     category: "Beauty",
     price: 299,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/fragrancedeonevia.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/fragrancedeonevia.jpg",
     ],
     specs: [
       "Quantity: 150ml",
@@ -1425,7 +1425,7 @@ const products = [
     category: "Beauty",
     price: 359,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/wowskincare.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/wowskincare.jpg",
     ],
     specs: [
       "Quantity: 150ml",
@@ -1468,7 +1468,7 @@ const products = [
     category: "Beauty",
     price: 227,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/coconutoil.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/coconutoil.jpg",
     ],
     specs: [
       "Quantity: 600ml",
@@ -1516,7 +1516,7 @@ const products = [
     category: "Beauty",
     price: 345,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/roseShowerGel.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/roseShowerGel.jpg",
     ],
     specs: [
       "Quantity: 250ml",
@@ -1550,8 +1550,8 @@ const products = [
     category: "Beauty",
     price: 276,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/vaslinebodylotion.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/vaslinebodylotion2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/vaslinebodylotion.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/vaslinebodylotion2.jpg",
     ],
     specs: [
       "Quantity: 400ml",
@@ -1589,8 +1589,8 @@ const products = [
     category: "Beauty",
     price: 24800,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/Straightener1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/Straightener2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/Straightener1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/Straightener2.jpg",
     ],
     specs: [
       "Hair Type: All",
@@ -1619,8 +1619,8 @@ const products = [
     category: "Beauty",
     price: 268,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/kajal1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/kajal2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/kajal1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/kajal2.jpg",
     ],
     specs: [
       "Smudge proof and convenient twist- up format for deep stroke",
@@ -1657,8 +1657,8 @@ const products = [
     category: "Beauty",
     price: 850,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/nailpolsih1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/nailpolsih2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/nailpolsih1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/nailpolsih2.jpg",
     ],
     specs: [
       "Brand: O.P.I",
@@ -1699,7 +1699,7 @@ const products = [
     category: "Furniture",
     price: 3199,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/officechairumbrella.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/officechairumbrella.jpg",
     ],
     specs: [
       "Furniture Base: Swivel",
@@ -1744,7 +1744,7 @@ const products = [
     category: "Furniture",
     price: 3775,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/desk.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/desk.jpg",
     ],
     specs: [
       "Item Dimensions: 103 x 40 x 73 Centimeters",
@@ -1788,7 +1788,7 @@ const products = [
     category: "Furniture",
     price: 21950,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/bedwithstorage.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/bedwithstorage.jpg",
     ],
     specs: [
       "Size: King Size",
@@ -1829,7 +1829,7 @@ const products = [
     category: "Furniture",
     price: 32899,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/sofa1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/sofa1.jpg",
     ],
     specs: [
       "Seating Capacity: Five Seat",
@@ -1870,7 +1870,7 @@ const products = [
     category: "Furniture",
     price: 9089,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/wardrobe1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/wardrobe1.jpg",
     ],
     specs: [
       "Seating Capacity: Five Seat",
@@ -1918,8 +1918,8 @@ const products = [
     category: "Laptops",
     price: 37590,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/studentLaptophp1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/studentLaptophp2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/studentLaptophp1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/studentLaptophp2.jpg",
     ],
     specs: [
       "Display: 15.6-inch FHD (1920 x 1080), IPS, micro-edge, anti-glare, 250 nits, 45% NTSC",
@@ -1970,8 +1970,8 @@ const products = [
     category: "Laptops",
     price: 38890,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/travelLaptop1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/travelLaptop2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/travelLaptop1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/travelLaptop2.jpg",
     ],
     specs: [
       "Processor:11th Generation Intel Core i3-1115G4 Processor (6MB Cache, up to 4.1 GHz)",
@@ -2015,7 +2015,7 @@ const products = [
     category: "Laptops",
     price: 57200,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/codingLaptop1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/codingLaptop1.jpg",
     ],
     specs: [
       "Processor: 10th Gen Intel Core i5-1035G1 | Speed: 1.0 GHz (Base) - 3.6 GHz (Max) | 4 Cores | 6MB Cache",
@@ -2076,8 +2076,8 @@ const products = [
     category: "Laptops",
     price: 111990,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/gamingLaptop1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/gamingLaptop2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/gamingLaptop1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/gamingLaptop2.jpg",
     ],
     specs: [
       "Processor: AMD Ryzen 9 4900HS Processor, 3.0 GHz (8MB Cache, up to 4.3 GHz, 8 Cores, 16 Threads)",
@@ -2128,8 +2128,8 @@ const products = [
     category: "Laptops",
     price: 215490,
     imgs: [
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/appleLaptop1.jpg",
-      "https://gitcdn.link/repo/seebham/ecommerce-dummy-data/main/images/appleLaptop2.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/appleLaptop1.jpg",
+      "https://gitcdn.link/cdn/seebham/ecommerce-dummy-data/main/images/appleLaptop2.jpg",
     ],
     specs: [
       "Processor: Ninth-generation 8-core Intel Core i9 processor",
